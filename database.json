@@ -28,9 +28,7 @@
       "expiry": "2026-05-16",
       "banned": false,
       "maxDevices": 1,
-      "devices": [
-        
-      ]
+      "devices": []
     },
     {
       "key": "KEY2",
@@ -139,11 +137,9 @@
       "key": "FAMILYKEY",
       "username": "FamilyUser",
       "expiry": "2026-08-23",
-      "banned": false,
+      "banned": true,
       "maxDevices": 2,
-      "devices": [
-        
-      ]
+      "devices": []
     }
   ],
   "notifications": [
