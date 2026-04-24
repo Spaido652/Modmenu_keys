@@ -47,10 +47,7 @@
         "5ba91b20799a49f9",
         "4c2f4fb834c714bc",
         "4c951de56a2096bb",
-        "4cf81b53f1161f8",
-        "32f16be02bf72232",
-        "64d0028d89f2b2b8",
-        "e47bad80fca977e6"
+        "4cf81b53f1161f8"
       ]
     },
     {
@@ -91,7 +88,8 @@
       "banned": false,
       "maxDevices": 2,
       "devices": [
-        
+        ,
+        "32f16be02bf72232"
       ]
     },
     {
