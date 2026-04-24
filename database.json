@@ -12,31 +12,27 @@
       ]
     },
     {
-      "key": "MEF9",
-      "username": "VIPUser2",
-      "expiry": "2026-05-24",
-      "banned": false,
-      "maxDevices": 1,
-      "devices": [
-        "b05ee58dc3a2ea69"
-      ]
-    },
-    {
-      "key": "PREM",
-      "username": "VIPUser",
-      "expiry": "2026-05-20",
-      "banned": false,
-      "maxDevices": 1,
-      "devices": [
-        "fe4e4252115b4769"
-      ]
-    },
-    {
-      "key": "FAM",
-      "username": "FamilyUser",
-      "expiry": "2026-08-23",
+      "key": "USER1",
+      "username": "VIPUser1",
+      "expiry": "2026-05-07",
       "banned": false,
       "maxDevices": 2,
+      "devices": []
+    },
+    {
+      "key": "USER11",
+      "username": "VIPUser",
+      "expiry": "2026-05-16",
+      "banned": false,
+      "maxDevices": 1,
+      "devices": []
+    },
+    {
+      "key": "KEY2",
+      "username": "FamilyUser",
+      "expiry": "2026-04-27",
+      "banned": false,
+      "maxDevices": 50,
       "devices": [
         
       ]
