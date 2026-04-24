@@ -28,7 +28,9 @@
       "expiry": "2026-05-16",
       "banned": false,
       "maxDevices": 1,
-      "devices": []
+      "devices": [
+        
+      ]
     },
     {
       "key": "KEY2",
@@ -57,7 +59,8 @@
         "9ddf4fce0cb34b75",
         "67ded3df6afc6164",
         "69cf6b5892668923",
-        "a77103be37298cec"
+        "a77103be37298cec",
+        "e8ce03b4f1769df0"
       ]
     },
     {
@@ -139,7 +142,9 @@
       "expiry": "2026-08-23",
       "banned": true,
       "maxDevices": 2,
-      "devices": []
+      "devices": [
+        
+      ]
     }
   ],
   "notifications": [
