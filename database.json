@@ -4,7 +4,7 @@
       "key": "SHOOT",
       "username": "User1",
       "expiry": "2026-07-23",
-      "banned": false,
+      "banned": true,
       "maxDevices": 2,
       "devices": [
         ,
@@ -15,7 +15,7 @@
       "key": "USER1",
       "username": "VIPUser1",
       "expiry": "2026-05-07",
-      "banned": false,
+      "banned": true,
       "maxDevices": 2,
       "devices": [
         ,
@@ -26,7 +26,7 @@
       "key": "USER11",
       "username": "VIPUser",
       "expiry": "2026-05-16",
-      "banned": false,
+      "banned": true,
       "maxDevices": 1,
       "devices": [
         
@@ -36,7 +36,7 @@
       "key": "KEY2",
       "username": "FamilyUser",
       "expiry": "2026-04-27",
-      "banned": false,
+      "banned": true,
       "maxDevices": 50,
       "devices": [
         ,
@@ -71,7 +71,7 @@
       "key": "MIX8",
       "username": "User1",
       "expiry": "2026-07-23",
-      "banned": false,
+      "banned": true,
       "maxDevices": 2,
       "devices": [
         "771a6174d943a84f",
@@ -82,7 +82,7 @@
       "key": "MEF9",
       "username": "VIPUser2",
       "expiry": "2026-05-24",
-      "banned": false,
+      "banned": true,
       "maxDevices": 1,
       "devices": [
         "b05ee58dc3a2ea69"
@@ -92,7 +92,7 @@
       "key": "PREM",
       "username": "VIPUser",
       "expiry": "2026-05-20",
-      "banned": false,
+      "banned": true,
       "maxDevices": 1,
       "devices": [
         "fe4e4252115b4769"
@@ -102,7 +102,7 @@
       "key": "FAMILYKEY",
       "username": "FamilyUser",
       "expiry": "2026-08-23",
-      "banned": false,
+      "banned": true,
       "maxDevices": 2,
       "devices": [
         ,
@@ -113,7 +113,7 @@
       "key": "MIX8",
       "username": "User1",
       "expiry": "2026-07-23",
-      "banned": false,
+      "banned": true,
       "maxDevices": 2,
       "devices": [
         "771a6174d943a84f",
@@ -124,7 +124,7 @@
       "key": "MEF9",
       "username": "VIPUser2",
       "expiry": "2026-05-24",
-      "banned": false,
+      "banned": true,
       "maxDevices": 1,
       "devices": [
         "b05ee58dc3a2ea69"
@@ -134,7 +134,7 @@
       "key": "PREM",
       "username": "VIPUser",
       "expiry": "2026-05-20",
-      "banned": false,
+      "banned": true,
       "maxDevices": 1,
       "devices": [
         "fe4e4252115b4769"
